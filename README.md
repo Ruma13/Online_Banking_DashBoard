@@ -29,7 +29,7 @@ If you want to explore this project or use it yourself, here's how to get it run
 ## A Look at the Dashboard Visuals
 
 The dashboard is designed to be intuitive and easy to navigate. Here's a quick breakdown of what each section tells you:
-
+![Alt text for the image](Online_Banking_Dashboard.JPG)
 * **KPI Cards:** The cards at the top show **Total Customers** and **Total Closing Balance**. They're the most important numbers, giving you an instant overview of the bank's size and financial health.
 * **Regional & Area Breakdown:** These bar and donut charts show where customers are located. They're great for spotting which regions are driving growth and where to focus marketing efforts.
 * **Financial Trends:** The line chart tracking **Monthly Closing Balance** is a powerful visual. It helps you see how the bank's finances are changing over time, revealing seasonal patterns or periods of rapid growth.
